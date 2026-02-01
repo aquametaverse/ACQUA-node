@@ -143,3 +143,26 @@ ACQUA position as a bridge between weareabkes and easy to use apps and the decen
 enabling a new generation of Web3-native lifestyle for water zones commercial activities, sporting experiences and financial autonomy.
 
 ---
+
+6
+Liquid Streams (Payments)
+
+Introducing ACQUA-Node to expand on payments, receiving payments handles three distinct types of income streams using a hybrid architecture:
+
+A. **Flash Tips (Yellow Network):**
+    * **Logic:** Sender or Receiver allows to scan the board's QR code to send instant, gasless micro-tips via State Channels.
+
+    * **Tech:** `Yellow Nitrolite SDK` listening for P2P transfers.
+
+
+
+B. **👷 Payroll (Arc Agent):**
+    * **Logic:** DePIN work (ex: plastic cleanup , GameFi credits, Defi MicroYields) is verified by the board's sensors and paid out weekly by the autonomous **Arc Treasury Agent**.
+
+    * **Tech:** Circle Programmable Wallets.
+
+
+C. **Impact Donations (Smart Contract):**
+    * **Logic:** Larger donations are routed through smartcontracts which automatically distributes small % of funds. Defi Closed loops using SUI Closed loop token and Referrals DeepBokPoolReferral to the global **ACQUAMetaVerse Plastic Cleanup DAO**, ensuring social impact alignment and trasparency in the redistribution of funds to real life projects, students, inventors and researchers on the field.
+    * **Tech:** Solidity, SUI, Eth, UniSwap
+
