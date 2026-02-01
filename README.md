@@ -120,6 +120,12 @@ Users can:
 
 ---
 
+
+Add ai agent featureset for trading 
+explore to Add chainlink usage 
+
+----
+
 ## ACQUAWallet Ecosystem Vision
 
 The comprehensive approach to integrating Web3 technology into physical weareables.
