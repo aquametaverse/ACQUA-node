@@ -122,13 +122,14 @@ Users can:
 
 ## ACQUAWallet Ecosystem Vision
 
-The eight designs presented showcase a comprehensive approach to integrating Web3 technology into physical products. 
-ACQUA Wallet physical paddleboards represent:
+The comprehensive approach to integrating Web3 technology into physical weareables.
+Security and easy of use, with a large niche community plenty of use cases and quick adoption potential
+ACQUA Wallet and its NFT physical paddleboards represent:
 
 - **Innovation**: First-to-market Web3-enabled weareables to the water sports equipment markets
 - **Integration**: Seamless blend of multiple blockchain protocols and identity systems
 - **User Experience**: Simple scanning and tapping interface for complex technical systems
-- **Partnership**: Collaboration with emerging and well established ecosystems
+- **Partnership**: Collaboration and mentors from Ethglobal or well established players in the ecosystems
 - **Future-Ready**: Embedded Wallets to reduce friction, Defi Automated Yield, Tap-to-pay DeFi, GameFi, and metaverse applications
 - **Social Impact**: With a mission to directlt Support plastic and water cleaning efforts where transparency is key
 
