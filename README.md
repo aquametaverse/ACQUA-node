@@ -1,5 +1,5 @@
 # ACQUA-node
-
+# Featuring ACQUAFLOW DAPP and Ai Chat, or protocol accesible via MCP/A2A Agentic
 
 **Project**: ACQUA-node Crypto AI Wallet supporting tap to pay
 **Location**: Montréal, Quebec, Canada  
@@ -9,6 +9,9 @@
 
 Notes:
 Log AI decisions and surface them in the UI (“Moved $500 from Vault A to B because APY increased and risk remained acceptable”).
+
+# ACQUA Flow dapp and protocol main feature of hackathon from a defi perspective 
+
 
 # ACQUA Wallet Design Portfolio & Feature Breakdown
 
