@@ -166,3 +166,8 @@ C. **Impact Donations (Smart Contract):**
     * **Logic:** Larger donations are routed through smartcontracts which automatically distributes small % of funds. Defi Closed loops using SUI Closed loop token and Referrals DeepBokPoolReferral to the global **ACQUAMetaVerse Plastic Cleanup DAO**, ensuring social impact alignment and trasparency in the redistribution of funds to real life projects, students, inventors and researchers on the field.
     * **Tech:** Solidity, SUI, Eth, UniSwap
 
+
+‐--------
+
+LiFi Feature 1.:. Defi Strategy Loop main logic using LiFi SDK and other tech mentioned
+
