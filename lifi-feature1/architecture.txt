@@ -1,0 +1,16 @@
+React app structure
+
+defi-strategy-loop/
+├── package.json
+├── public/
+│   └── index.html
+└── src/
+    ├── App.js
+    ├── App.css (CSS file needed)
+    ├── index.js
+    ├── components/
+    │   ├── MonitorPanel.js
+    │   ├── DecidePanel.js
+    │   └── ExecutePanel.js
+    └── services/
+        └── lifiService.js
