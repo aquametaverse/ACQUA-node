@@ -1,0 +1,31 @@
+The Acqua-node is integrated and interacts with LiFi.
+
+Key TechnologiesReact 18 for UI components and state management
+LiFi SDK 3.0 for cross-chain aggregation
+Ethers.js 6.9 for Web3 wallet integration
+Axios for API requests
+
+The LiFi Integration feature of Acqua-node makes use of the @lifi/sdk package in order to access the LiFi's cross-chain aggregation capabilities and features.
+The lifiService.js provides methods i use to get optimal cross-chain swap quotes, executing routes with automatic gas estimation, fetching token balances across multiple chains, and managing 3% slippage tolerance that seems to be the default for now.
+
+
+Monitor Panel
+Displays real-time portfolio state with TVL tracking
+Shows current vs target allocations for 5 assets (ETH, ARB, USDC, OP, MATIC) 
+Calculates drift percentages and highlights assets exceeding thresholds
+Status indicators (Healthy, Warning, Critical) based on drift severity
+
+Decide Panel
+Implements threshold-based rebalancing strategy (±5% drift tolerance)
+Generates prioritized recommendations (BUY/SELL actions)
+Calculates exact rebalancing amounts needed
+Shows cross-chain execution details for each recommendation
+
+
+Execute Panel
+4-step execution pipeline: 
+Quote → Approve → Execute → CompleteIntegrates LiFi SDK for cross-chain routing
+Real-time progress tracking with visual indicators
+Transaction hash generation and copy functionality
+Supports wallet connection via MetaMask/Web3 providers
+
